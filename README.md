@@ -42,8 +42,25 @@ Late Testing
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile
+For projects needing flexibility through feature evolvement with feedback.Example mobile Applications and Games
+
+Waterfall
+Suits projects with set defined requirements, like a payroll system of an organization. 
+
+
+
+
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+This ensures software works well and keeps users satisfied, avoiding costly fixes.
+
+Methods: Run unit tests after coding, do user testing before release, and use QA checklists to catch bugs (e.g., testing login across browsers).  
+
+
+
+
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
