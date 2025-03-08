@@ -9,7 +9,7 @@ With Project managers efforts of  setting reasonable deadlines, check  on every 
 
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-
+Costs checks ensures the project stays profitable and within client budgets.
 
 Strategies to Prevent Budget Overruns:  
 
@@ -54,9 +54,6 @@ Disadvantages:
 
 Rigid 
 Late Testing
-
-
-
 
 
 
