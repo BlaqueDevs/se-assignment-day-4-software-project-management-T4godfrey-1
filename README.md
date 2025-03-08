@@ -42,8 +42,16 @@ Late Testing
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+Scope sets clear and defined goals,prevents extra work, keeping team focused.
+WBS-Breaking the project into smaller tasks,useful for assigning work and tracking progress.
+
+
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 A schedule shows what’s due when, keeping everyone on track and avoiding delays.
 
