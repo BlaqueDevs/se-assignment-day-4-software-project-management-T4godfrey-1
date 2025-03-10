@@ -73,14 +73,10 @@ This ensures software works well and keeps users satisfied, avoiding costly fixe
 Methods: Run unit tests after coding, do user testing before release, and use QA checklists to catch bugs (e.g., testing login across browsers).  
 
 
-
-
-
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 Scope sets clear and defined goals,prevents extra work, keeping team focused.
 WBS-Breaking the project into smaller tasks,useful for assigning work and tracking progress.
-
 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
@@ -100,8 +96,10 @@ problem defination leads to exact knowing  what’s wrong and simplifying the pr
 Being clear, focusing on benefits, and skiping tech jargon.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-The main features incorporated within a softawre solution should be in connection with the users addressed issues of concerns though with unique way of capturing and simple procedures for a user to meet his/her needs(example a softawre solution that aim to work in hand with delivery or ordering-door step operations sparering users the difficulty of providing description of there location but only to provided a functionality within which which specific loacation of a device is obtained automaticaly with placement of order request.)
+The main features incorporated within a software solution should address the users' issues and concerns through a unique approach to capturing information and simple procedures that allow users to meet their needs. For example, a software solution designed to facilitate delivery or ordering operations could spare users the difficulty of providing a description of their location. Instead, it could include functionality that automatically obtains the specific location of a device when an order request is placed.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+Since there is an experienced rise in business that aim to give their customers convinience in terms of services by making them feel special in order to maintain there relations, the market for such above solution software would be of significance where with the order approval from the customer the rest of the tasks will be well taken care of with just a click.  
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Market trends influences prioritization.Through this understanding the competitor`s mind and how they would address there issues to target businesses,shaped availed features as solutions and marketing of the product, making one to come up with a strategic way that out-do the competitor mode of operations,considering the taste of the users. 
