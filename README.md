@@ -27,8 +27,6 @@ Spending Reviews
 Regular check spending—weekly or biweekly—against the budget. Adjust priorities or cut non-essential tasks if needed.  
 
 
-
-
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
 Agile is a methodology that applies short cycles technique to perform work, allowing adjustments than fixed path whereas Waterfall follows a step-by-step method.
@@ -91,18 +89,19 @@ A schedule shows what’s due when, keeping everyone on track and avoiding delay
 Gantt Charts is a tool that gives Visual timelines.They help spot overlaps, plan dependencies, and adjust deadlines easily.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Softwares is like a solution to a problem that exists in one way or the other.solving of this issues matter as they results in resources such as time,funds wastage.
+By trying to solving these issues tasks are eased hence smooth operation experience. 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 problem defination leads to exact knowing  what’s wrong and simplifying the problem into easily understood modules where guides for team to build a targeted fix is favoured, avoiding wasted effort.  
-
-
-
 
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 Being clear, focusing on benefits, and skiping tech jargon.
 
 ## 11. What are the main features or functionalities that make your software stand out?
+The main features incorporated within a softawre solution should be in connection with the users addressed issues of concerns though with unique way of capturing and simple procedures for a user to meet his/her needs(example a softawre solution that aim to work in hand with delivery or ordering-door step operations sparering users the difficulty of providing description of there location but only to provided a functionality within which which specific loacation of a device is obtained automaticaly with placement of order request.)
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
